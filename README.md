@@ -1,14 +1,19 @@
-## Getting Started
+## Brick Breaker
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This game is a version of the arcade game developed by Atari Inc, Breakout. The project has been created using Java and JavaFX for the graphics.
 
-## Folder Structure
+## How to Run
+- Have java installed and running.
+- Download all files in a desired location.
+- Run `RUNFILE.bat` to start the game.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+## Controls
+- `LEFT ARROW KEY` to move PLATFORM LEFT.
+- `RIGHT ARROW KEY` to move PLATFORM RIGHT.
+- `R` to RESTART.
+- `E` to EXIT.
+- `C` to change COLOURS.
+- CHEATS
+  -  `P` to PAUSE the ball in position
+  -  `WASD` to MOVE the ball directly.
+  -  `Q` to bring ball to STARTING position.
