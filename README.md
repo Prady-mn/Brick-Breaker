@@ -17,3 +17,6 @@ This game is a version of the arcade game developed by Atari Inc, Breakout. The 
   -  `P` to PAUSE the ball in position
   -  `WASD` to MOVE the ball directly.
   -  `Q` to bring ball to STARTING position.
+ 
+## Gameplay
+<img align = "left" src = "Screenshots/vid1.GIF" width = "500">  <img align = "right" src = "Screenshots/vid2.GIF" width = "500">
