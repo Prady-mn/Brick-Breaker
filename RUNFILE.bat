@@ -1,0 +1,2 @@
+javac --module-path src\javafx-sdk-21.0.5\lib\ --add-modules javafx.controls,javafx.fxml  LauncherClass.java
+java --module-path src\javafx-sdk-21.0.5\lib\ --add-modules javafx.controls,javafx.fxml  LauncherClass.java
